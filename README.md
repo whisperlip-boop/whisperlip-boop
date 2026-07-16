@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm vunokim</h1>
 <h3 align="center">A passionate Fullstack QA from S.Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vunokim&label=Profile%20views&color=0e75b6&style=flat" alt="vunokim" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vunokim" alt="vunokim" /></a> </p>
 
