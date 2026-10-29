@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm whisperlip-boop</h1>
 <h3 align="center">A passionate Fullstack QA from S.Korea</h3>
 
+![](https://komarev.com/ghpvc/?username=whisperlip-boop)
+
 
 
 - 🔭 I’m currently working on [VUNO](vuno.co)
