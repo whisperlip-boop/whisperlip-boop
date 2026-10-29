@@ -14,4 +14,9 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=whisperlip-boop&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=whisperlip-boop&layout=compact&theme=radical)
 
+![Platform](https://img.shields.io/badge/platform-Windows-0078D4?style=flat-square&logo=windows)
+![Runtime](https://img.shields.io/badge/Node.js-24+-339933?style=flat-square&logo=nodedotjs)
+![Terminal](https://img.shields.io/badge/Terminal-psmux-222222?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whisperlip-boop&" alt="whisperlip-boop" /></p>
